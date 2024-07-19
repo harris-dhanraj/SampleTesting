@@ -1,3 +1,4 @@
+# Inheritance and Exception Handling
 class B(Exception):
     pass
 
